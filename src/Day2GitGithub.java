@@ -15,7 +15,13 @@ göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak
 
 Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız
+
+
+git hub ogrendim 
  */
         System.out.println("github ı da ogrendim");
+        
+        
+       
     }
 }
