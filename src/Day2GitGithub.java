@@ -23,5 +23,6 @@ git hub ogrendim
 
 
         System.out.println("branch deneneme 1");
+        System.out.println("master deneneme 1");
     }
 }
