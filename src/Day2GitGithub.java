@@ -20,8 +20,8 @@ kullanırız
 git hub ogrendim 
  */
         System.out.println("github ı da ogrendim");
-        
-        
-       
+
+
+        System.out.println("branch deneneme 1");
     }
 }
